@@ -1,0 +1,7 @@
+## Interface: 11403
+## Title: Warlock Summon Helper
+## Notes: Helps warlocks manage summons and assists others in clicking portals
+## Author: YourName
+## Version: 1.0
+
+WarlockSummonHelper.lua
